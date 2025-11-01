@@ -1,4 +1,4 @@
-# 👟 E-Commerce Footwear Website  
+# 👟 E-Commerce Footwear Website
 
 ## 📝 Overview  
 A full-stack **Java-based E-Commerce Website** for footwear shopping.  
