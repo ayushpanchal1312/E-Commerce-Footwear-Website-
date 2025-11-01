@@ -1,8 +1,15 @@
 # 👟 E-Commerce Footwear Website
 
 ## 📝 Overview  
-A full-stack **Java-based E-Commerce Website** for footwear shopping.  
-This project focuses on **session management**, **user authentication**, and **cart operations** using **Servlets, JSP, and MySQL**.  
+This project is a Java-based E-Commerce Website for managing footwear products, designed using the MVC (Model-View-Controller) architecture.
+It allows customers to browse and purchase footwear, while admins can manage products efficiently.
+The main focus is on session management, user authentication, and role-based redirection.
+
+## 🏗️ Architecture
+**MVC Structure:**
+**Model:** Java classes representing data (Product, Cart, Order, Login).
+**View:** JSP pages for frontend (user and admin interfaces).
+**Controller:** Servlets handling all business logic and request processing.
 
 ## ⚙️ Technologies Used  
 - **Backend:** Java, Servlet, JSP  
