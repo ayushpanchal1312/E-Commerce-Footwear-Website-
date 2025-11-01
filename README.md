@@ -46,7 +46,7 @@ The main focus is on session management, user authentication, and role-based red
 ## 👨‍💻 Author  
 ### Ayush Panchal  
 **MSc IT | Java Developer**  
-- **linkdin:**https://www.linkedin.com/in/ayush-panchal-3a0b73276/
+- **linkdin:** https://www.linkedin.com/in/ayush-panchal-3a0b73276/
 
 ## 🗂️ How to Run  
 1. Import the project into **Eclipse/IntelliJ**.  
